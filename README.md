@@ -15,3 +15,8 @@ This will download (clone) the software to your local Raspberry Pi.
 Type <code>cd energyMonitor</code> to navigate into the craftbeerpi folder.
 
 Type <code>python __init__.py</code>
+
+## Itens
+
+* Item 1
+* Item 2

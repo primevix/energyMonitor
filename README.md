@@ -2,6 +2,8 @@
 
 This is energyMonitor version 1.0. It's currently in beta status.
 
+## Hardware Configuration
+
 ## Installation
 
 Open a terminal window on Raspberry Pi and type:

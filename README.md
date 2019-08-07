@@ -4,6 +4,8 @@ This is energyMonitor version 1.0. It's currently in beta status.
 
 ## Hardware Configuration
 
+<img src="https://www.baudaeletronica.com.br/Documentos/img/conexion.jpg">
+
 ## Installation
 
 Open a terminal window on Raspberry Pi and type:
